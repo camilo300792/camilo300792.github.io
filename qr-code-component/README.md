@@ -60,4 +60,4 @@ I want to learn about CSS media queries and mobile first design.
 ## Author
 
 - Github - [Camilo Martinez](https://github.com/camilo300792)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/camilo300792)
+- Frontend Mentor - [@camilo300792](https://www.frontendmentor.io/profile/camilo300792)
